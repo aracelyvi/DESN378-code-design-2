@@ -9,10 +9,10 @@ Update it once, keep it consistent everywhere.
 
 | Field | Value |
 |-------|-------|
-| **Name** | <!-- First Last --> |
-| **Preferred Name** | <!-- What should I call you? --> |
-| **Pronouns** | <!-- Optional --> |
-| **EWU Email** | <!-- @ewu.edu --> |
+| **Name** | <!-- Aracely Vidrios --> |
+| **Preferred Name** | <!-- Aracely --> |
+| **Pronouns** | <!-- She/Her --> |
+| **EWU Email** | <!-- avidrios2@ewu.edu --> |
 
 ---
 
@@ -22,9 +22,9 @@ Update it once, keep it consistent everywhere.
 
 | Platform | Profile URL | Status |
 |----------|-------------|--------|
-| **GitHub** | `https://github.com/________` | ⏳ |
-| **Figma** | `@________` | ⏳ |
-| **CodePen** | `https://codepen.io/________` | ⏳ |
+| **GitHub** | `https://github.com/aracelyvi` | ⏳ |
+| **Figma** | `@aracely` | ⏳ |
+| **CodePen** | `https://codepen.io/aracelyv` | ⏳ |
 | **Portfolio** | *Coming Week 10* | 🔲 |
 
 ---
@@ -41,8 +41,8 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Applied/Renewed | ⏳ |
-| Copilot Access | ⏳ |
+| Applied/Renewed | ✅ |
+| Copilot Access | ✅ |
 | Expires | <!-- Date --> |
 
 👉 [Check status or renew](https://education.github.com/pack)
@@ -53,8 +53,8 @@ Update it once, keep it consistent everywhere.
 
 | Item | Status |
 |------|--------|
-| Education Plan Active | ⏳ |
-| Joined Course Team | ⏳ |
+| Education Plan Active | ✅ |
+| Joined Course Team | ✅ |
 | Expires | <!-- Date --> |
 
 👉 [Check status](https://www.figma.com/settings) → Plan
