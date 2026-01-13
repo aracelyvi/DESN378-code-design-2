@@ -24,7 +24,7 @@ This is my workspace for **DESN 378 Code + Design 2** also known as **Web Design
 
 Update this section each week with observations, breakthroughs, and questions.
 ## Week 0: The Set Up 
-I learned how to set up a Github page, where I have my portfolio and the other work I have done in class. I have learned more about the foundation of Javascript from the readings and the lecture done in class, like what it can be used for, what kind of functions it has, and what it can't do. I was able to learn basic javascript code such as: learning to log variables, defining variables, and how to use javascript to change features in existing webpages. 
+I learned how to set up a Github page, where I have my portfolio and the other work I have done in class. I have learned more about the foundation of Javascript from the readings and the lecture done in class, like what it can be used for, what kind of functions it has, and what it can't do. I was able to learn basic javascript code such as: learning to log variables, defining variables, and how to use javascript to change features in existing webpages. I used Ai to help me understand the terms and examples of what they looked like so I could correlate an example variable to the work variable. I also used Ai to help me if I was stuck and everything I tried wasn't working. I still need more practice with getting comfortable using javascript. If I worked on it for a while I was able to pick it up but as soon as I took a break I had to relearn what how to use it. 
 
 ### Week 1: Systems That Respond
 *Coming soon...*
