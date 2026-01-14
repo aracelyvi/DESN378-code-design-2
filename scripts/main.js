@@ -42,10 +42,18 @@ function setUserName() {
     setUserName();
   } else {
     localStorage.setItem("name", myName);
-    myHeading.textContent = `Mozilla is cool, ${myName}`;
+    myHeading.textContent = `Let's Play, ${myName}`;
   }
 }
-
+/*
+  SUMMARY:
+  This file does two things:
+  1. I added an 8 ball to the image changer because I felt it fit for the size and shape. 
+  I also had an idea to change the back to be similar to a pool table.
+  2. The message plays of the 8 ball and the background because it looks like a game of pool.
+  The key pattern I learned: I learned how to use change images with clicking, it was hard to get it at first because
+  I didn;t initally change the image name in html and I was struggle trying to figure out why my image wasn't working. 
+*/
 
 
 
