@@ -17,25 +17,35 @@ p, li {
 
 
 html {
-  background-color: #00539F;
+  background-color: lightgoldenrodyellow;
 }
 
 body {
   width: 600px;
   margin: 0 auto;
-  background-color: #FF9500;
+  background-color: rgb(127, 171, 127);
   padding: 0 20px 20px 20px;
-  border: 5px solid black;
+  border: 5px solid rgb(37, 51, 14);
 }
 
 h1 {
   margin: 0;
   padding: 20px 0;
-  color: #00539F;
-  text-shadow: 3px 3px 1px black;
+  color: rgb(144, 213, 33);
+  text-shadow: 3px 3px 1px rgb(37, 51, 14);
 }
 
 img {
+  display: block;
+  margin: 0 auto;
+}
+
+button{
+  background-color: rgb(144, 213, 33);
+  color: black;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
   display: block;
   margin: 0 auto;
 }
