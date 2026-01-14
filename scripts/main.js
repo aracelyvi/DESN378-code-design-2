@@ -15,7 +15,11 @@ myImage.addEventListener("click", () => {
     myImage.setAttribute("src", "images/firefox2.jpg");
   } else {
     myImage.setAttribute("src", "images/firefox-icon.png");
+    
   }
+ 
+
+
 });
   console.log('Portfolio loaded');
 
