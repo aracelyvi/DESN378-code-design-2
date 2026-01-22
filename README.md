@@ -26,8 +26,56 @@ Update this section each week with observations, breakthroughs, and questions.
 ## Week 0: The Set Up 
 I learned how to set up a Github page, where I have my portfolio and the other work I have done in class. I have learned more about the foundation of Javascript from the readings and the lecture done in class, like what it can be used for, what kind of functions it has, and what it can't do. I was able to learn basic javascript code such as: learning to log variables, defining variables, and how to use javascript to change features in existing webpages. I used Ai to help me understand the terms and examples of what they looked like so I could correlate an example variable to the work variable. I also used Ai to help me if I was stuck and everything I tried wasn't working. I still need more practice with getting comfortable using javascript. If I worked on it for a while I was able to pick it up but as soon as I took a break I had to relearn what how to use it. 
 
-### Week 1: Systems That Respond
-*Coming soon...*
+### Work Completed (Week 0)
+​
+**Engage**
+- [x] Portfolio Audit
+​
+**Learn**
+- [x] Console Explorer
+- [x] Codedex Console Fundamentals
+​
+**Reflect**
+- [x] Visual Notes: Variables and Strings
+​
+**Build**
+- [x] The Setup
+- [x] The Behavioral Layer 
+
+### Week 1: Systems That Respond​
+### What I Learned
+<!-- What concepts clicked for you? What was new? -->
+The console log and defining variables has clicked for me. I finally understand what variables look like, how to value them, and how they interact with each other to create an output. What was knew was learning how to create the dark/light mode for webpages. ​
+​
+### What Was Hard
+<!-- What frustrated you? What didn't make sense? -->
+I am still trying to get used to using Github for everything. I still have some issues with working with Github. ​
+​
+### How I Used AI
+<!-- Did you use Copilot, ChatGPT, etc.? How did it help or not help? -->
+I use Copilot to help me with any issues with Github. I also use it to help me learn the code and their functions. I just uploaded screenshots of the code I am struggling with and it does a good job of explaining what I have to do and how to do it. It helps a lot because it compares my currect code to the correct code and it tells me what I am missing to correct my code.​
+​
+### What's Still Unclear
+<!-- What questions do you still have? What needs more practice? -->
+I need to keep working through the assignment and working in Github, I do not feel too comfortable working in it yet.
+
+### Work Completed (Week 1)
+
+**Engage**
+- [x] VS Code Theme Setup
+
+**Learn**
+- [x] Codedex.io Variables
+
+**Practice**
+- [ ] The Story Teller (in progress)
+
+**Build**
+- [ ] Portfolio Migration (in progress)
+- [ ] Portfolio in Figma + Style Tile (in progress)
+
+**Reflect**
+- [x] Visual Notes: Week 1---
 
 ### Week 2: Remembering Choices
 *Coming soon...*
