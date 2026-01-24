@@ -12,6 +12,7 @@ body {
   color: white;
 }
 
+/* Navbar - User Story #6, #7, #11 */
 #navbar {
   position: fixed;
   top: 0;
@@ -40,6 +41,7 @@ body {
   color: lightblue;
 }
 
+/* Welcome Section - User Story #1, #2, #10 */
 #welcome-section {
   display: flex;
   flex-direction: column;
@@ -61,6 +63,7 @@ body {
   font-weight: 300;
 }
 
+/* Projects Section - User Story #3, #4, #5 */
 #projects {
   padding: 5rem 2rem;
   background-color: #f1e6d2;
@@ -105,6 +108,7 @@ body {
   text-align: center;
 }
 
+/* Contact Section - User Story #8 */
 #contact {
   padding: 5rem 2rem;
   background-color: darkred;
@@ -143,6 +147,7 @@ footer {
   padding: 2rem;
 }
 
+/* Media Query - User Story #9 */
 @media (max-width: 768px) {
   #welcome-section h1 {
     font-size: 2.5rem;
