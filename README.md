@@ -68,10 +68,10 @@ I need to keep working through the assignment and working in Github, I do not fe
 - [x] Codedex.io Variables
 
 **Practice**
-- [ ] The Story Teller (in progress)
+- [x] The Story Teller
 
 **Build**
-- [ ] Portfolio Migration (in progress)
+- [x] Portfolio Migration
 - [ ] Portfolio in Figma + Style Tile (in progress)
 
 **Reflect**
