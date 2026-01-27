@@ -1,6 +1,7 @@
 // Find elements
 const image = document.querySelector('.story-image img');
 const caption = document.querySelector('#story-caption');
+
 // Story content
 const captions = [
   "Click image to begin...",
@@ -22,15 +23,13 @@ image.addEventListener('click', function() {
     // Update caption
     caption.textContent = captions[currentStep];
 
-    // Update image
-    image.src = `assets/images/image-${currentStep + 1}.jpg`;
+    // Update image (CHANGED .jpg TO .png)
+    image.src = `assets/images/image-${currentStep + 1}.png`;
 
     // Update progress dots
     updateProgress(currentStep);
   }
 });
-
-
 
 function updateProgress(step) {
   const dots = document.querySelectorAll('.dot');
