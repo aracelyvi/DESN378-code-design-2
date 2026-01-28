@@ -78,7 +78,43 @@ I need to keep working through the assignment and working in Github, I do not fe
 - [x] Visual Notes: Week 1---
 
 ### Week 2: Remembering Choices
-*Coming soon...*
+# Learning Log
+​
+## Week 2
+​
+### What I Learned
+I learned about tokens in design systems and how they are categorized. I learned the structure of the design tokens and what categories certain features fit( colors, size in categories, default is a state, etc). I learned how those catgories fit into larger categories which are the base, modifier, object, and namesapce level. I applied the the onclick feature to create an interactive story that a user can walk through and switch between images when it is clicked.
+​​
+### What Was Hard
+I got behind over the past week and I am still trying to get caught up with the assignments, so I am just struggling to get those assignments turned in.
+​
+​
+### How I Used AI
+I use AI when using Github, I use it to help me fix my errors because I am not very confident in using Github yet. I also use AI when I am struggling to understand how  the code works and I need a more in-depth explanation on it. I also use to help me clariy specifics in the assignments.
+​
+​
+### What's Still Unclear
+I still have to get used to Github. I understand figma and I enjoy using it more but I struggle more with Gitthub.
+​
+​
+### Work Completed (Week 1)
+
+**Engage**
+- [x] VS Code Theme Setup
+
+**Learn**
+- [ ] Codedex.io Conditionals
+- [ ] figma variables
+
+**Practice**
+- [ ] The Switch
+
+**Build**
+- [ ] The Foundation
+- [ ] Portfolio in Figma + Style Tile
+
+**Reflect**
+- [x] Visual Notes: Week 2---
 
 ---
 
