@@ -4,14 +4,6 @@
   box-sizing: border-box;
 }
 
-body {
-    font-family: "Caudex", serif;
-  font-weight: 700;
-  font-style: normal;
-  line-height: 1.6;
-  color: white;
-}
-
 #navbar {
   position: fixed;
   top: 0;
@@ -46,7 +38,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg,  darkred 100%);
+  background: linear-gradient(135deg, darkred 100%);
   color: white;
   text-align: center;
 }
@@ -63,8 +55,6 @@ body {
 
 #projects {
   padding: 5rem 2rem;
-  background-color: #f1e6d2;
-  color: darkred;
 }
 
 #projects h2 {
@@ -167,9 +157,42 @@ footer {
     gap: 1.5rem;
   }
 }
+
 /* Design tokens — your single source of truth */
 :root {
-  --color-surface: #ffffff;
-  --color-text: #1a1a1a;
-  --color-accent: #0066cc;
+  --color-surface: #f1e6d2;
+  --color-text: darkred;
+  --color-accent: darkred;
+}
+
+/* Dark mode overrides */
+body.dark {
+  --color-surface: black;
+  --color-text: lightblue;
+  --color-accent: lightblue;
+}
+
+/* Apply tokens to elements */
+body {
+  background-color: var(--color-surface);
+  color: var(--color-text);
+  font-family: "Caudex", serif;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: var(--color-accent);
+}
+
+.theme-toggle {
+  background: var(--color-accent);
+  color: var(--color-surface);
+  border: none;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
 }
