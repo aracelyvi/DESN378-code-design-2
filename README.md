@@ -121,7 +121,7 @@ I still have to get used to Github. I understand figma and I enjoy using it more
 ## Week 3
 ​
 ### What I Learned
-This week I learned about svgs, 
+This week I learned about svgs and how you can create svgs using html code and input the svg directly instead of using an image. I learned how svgs can be scaled and created based off the shape or placement you want to use for them. I also learned how to add a button to my portfolio that switches from light to dark mode when the button is pressed. I learned to use the conditional for the dark/light button.
 ​
 ​
 ### What Was Hard
