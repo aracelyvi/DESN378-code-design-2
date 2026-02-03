@@ -97,17 +97,17 @@ I use AI when using Github, I use it to help me fix my errors because I am not v
 I still have to get used to Github. I understand figma and I enjoy using it more but I struggle more with Gitthub.
 ​
 ​
-### Work Completed (Week 1)
+### Work Completed (Week 2)
 
 **Engage**
 - [x] VS Code Theme Setup
 
 **Learn**
-- [ ] Codedex.io Conditionals
+- [x] Codedex.io Conditionals
 - [ ] figma variables
 
 **Practice**
-- [ ] The Switch
+- [x] The Switch
 
 **Build**
 - [ ] The Foundation
@@ -115,6 +115,49 @@ I still have to get used to Github. I understand figma and I enjoy using it more
 
 **Reflect**
 - [x] Visual Notes: Week 2---
+
+
+
+## Week 3
+​
+### What I Learned
+This week I learned about svgs, 
+​
+​
+### What Was Hard
+I have just been trying to get caught up and getting through my assignments. I am working to get the past week finished and make more progress with this weeks work. I still struggle with Github sometimes but I have been using AI to help when I get stuck on an issue with Github.
+​
+​
+### How I Used AI
+I am using AI to help me with concepts that I do not understand. I use Claude to help me fix errors that I do not know how to fix. 
+​
+​
+### What's Still Unclear
+Now that I have been working on the assignments, it is starting to make the code easier to understand. 
+​
+### Work Completed (Week 3)
+
+**Design Tokens**
+- [ ] variables.css exists
+- [ ] Color tokens defined
+- [ ] Typography tokens defined
+- [ ] Spacing tokens defined
+- [ ] Tokens used in CSS (no hardcoded values)
+
+**Theme System**
+- [ ] Uses data-theme on <html>
+- [ ] Toggle feedback is immediate
+
+**Persistence & Preference**
+- [ ] Theme saved to localStorage
+- [ ] Theme persists on refresh
+- [ ] System preference used on first visit
+
+**Deployment**
+- [ ] Deployed to GitHub Pages
+- [ ] Repository is public
+
+
 
 ---
 
