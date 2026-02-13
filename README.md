@@ -158,6 +158,32 @@ Now that I have been working on the assignments, it is starting to make the code
 - [ ] Repository is public
 
 
+# Learning Log
+​
+## Week 4
+​
+### What I Learned
+This week I learned about svgs, svg paths, and the anatomy of svgs. The notes I took explained the the svgs and the interactive notes helped me futher understand how svgs worked.
+​
+​
+### What Was Hard
+I have been trying to get caught up with my past assignments and trying to keep up with the current assignments.
+​
+​
+### How I Used AI
+AI has been helping me with any issues with github or any questions I have when I am stuck coding. ​
+​
+### What's Still Unclear
+Nothing unclear, jsut trying to get throught the assignments.
+​
+​### Work Completed (Week 3)
+
+**Design Tokens** 
+- [x] The Shape // SVG Structure,
+- [ ] Figma's Engine
+- [ ] Interactive Graphics
+
+
 
 ---
 
