@@ -1,0 +1,35 @@
+/* Design Tokens — Aracely's Portfolio */
+
+/* 1. Color Primitives */
+:root {
+  --red-primary: #8B0000;
+  --blue-dark: #2C3E50;
+  --cream-bg: #F1E6D2;
+  --white: #FFFFFF;
+  --black: #000000;
+  --blue-light: #C1D2E3;
+}
+
+/* 2. Light Mode Tokens (Default) */
+body.light {
+  --color-surface: var(--cream-bg);      
+  --color-surface-variant: var(--red-primary); 
+  --color-nav-bg: var(--blue-dark);
+  --color-text-main: var(--black);
+  --color-text-on-dark: var(--white);
+  --color-accent: var(--blue-light);
+  --color-card-bg: var(--blue-dark);
+  --font-main: "Caudex", serif;
+  --space-section: 5rem;
+}
+
+/* 3. Dark Mode Overrides */
+body.dark {
+  --color-surface: var(--blue-dark);     
+  --color-surface-variant: var(--red-primary); 
+  --color-nav-bg: var(--black);          
+  --color-text-main: var(--white);       
+  --color-text-on-dark: var(--cream-bg); 
+  --color-accent: var(--blue-light);
+  --color-card-bg: var(--black);
+}
