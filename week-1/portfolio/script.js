@@ -1,10 +1,13 @@
-// Step 1: Find the button
-// What selector goes here? Look at your HTML — what class is on the button?
 const toggle = document.querySelector('.theme-toggle');
 
-// Step 2: Listen for clicks
+// Initialize the page in light mode as per requirements
+document.body.classList.add('light');
+
 toggle.addEventListener('click', function() {
-  // Step 3: Toggle the dark class on body
-  // What class are we toggling? Look at your CSS — what class changes the colors?
-  document.body.classList.toggle('dark');
+    // Toggle between dark and light
+    if (document.body.classList.contains('dark')) {
+        document.body.classList.replace('dark', 'light');
+    } else {
+        document.body.classList.replace('light', 'dark');
+    }
 });
