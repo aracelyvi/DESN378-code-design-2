@@ -32,4 +32,5 @@ body.dark {
   --color-text-on-dark: var(--cream-bg); 
   --color-accent: var(--blue-light);
   --color-card-bg: var(--black);
+    --font-main: "Caudex", serif;
 }
