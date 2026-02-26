@@ -11,7 +11,7 @@
 }
 
 /* 2. Light Mode Tokens (Default) */
-body.light {
+:root{
   --color-surface: var(--cream-bg);      
   --color-surface-variant: var(--red-primary); 
   --color-nav-bg: var(--blue-dark);
@@ -24,7 +24,7 @@ body.light {
 }
 
 /* 3. Dark Mode Overrides */
-body.dark {
+[data-theme="dark"] {
   --color-surface: var(--blue-dark);     
   --color-surface-variant: var(--red-primary); 
   --color-nav-bg: var(--black);          
