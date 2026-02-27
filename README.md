@@ -183,8 +183,31 @@ Nothing unclear, jsut trying to get throught the assignments.
 - [ ] Figma's Engine
 - [ ] Interactive Graphics
 
-
-
+# Learning Log
+​
+## Week #5
+​
+### What I Learned
+<!-- SVG's, dropdown, svg paths -->
+​I learned more about svgs and scrollytelling and how css and js can be added to make webpages interesting and have engaging animations. I was also able to get through building the foundation of my scrollytelling website.
+​
+### What Was Hard
+<!-- What broke, confused you, or took time to understand -->
+​I have been trying to work through the past assignment and the current assignments so I do not get too behind on my scrollytelling project.
+​
+### How I Used AI
+<!-- Copilot, ChatGPT, etc. What you asked and why -->
+​I used chat gpt to help me with my css, i have some issues trying to figure out how to add the variables css and how that was different to the styles css. I used gemini to help me understand the differences and how it affects the website interface.
+​
+### What's Still Unclear
+<!-- Questions that remain -->
+​Nothing unclear, still working the assignments.
+​
+### Work Completed (Week 5)
+**Design Tokens** 
+- [x] The Shape // SVG Structure,
+- [x] Figma's Engine
+- [ ] Interactive Graphics
 ---
 
 ## Quick Links
