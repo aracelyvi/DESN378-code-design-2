@@ -185,25 +185,51 @@ Nothing unclear, jsut trying to get throught the assignments.
 
 # Learning Log
 ​
-## Week #5
+## Week #6
 ​
 ### What I Learned
 <!-- SVG's, dropdown, svg paths -->
-​I learned more about svgs and scrollytelling and how css and js can be added to make webpages interesting and have engaging animations. I was also able to get through building the foundation of my scrollytelling website.
+​I learned more about creating svgs and trying to create elements that fit in my scrollytelling website. I used codepen to create my svgs for my website.
 ​
 ### What Was Hard
 <!-- What broke, confused you, or took time to understand -->
 ​I have been trying to work through the past assignment and the current assignments so I do not get too behind on my scrollytelling project.
-​
 ### How I Used AI
 <!-- Copilot, ChatGPT, etc. What you asked and why -->
-​I used chat gpt to help me with my css, i have some issues trying to figure out how to add the variables css and how that was different to the styles css. I used gemini to help me understand the differences and how it affects the website interface.
+​​I used chat gpt to help me with my css, i have some issues trying to figure out how to add the variables css and how that was different to the styles css. I used gemini to help me understand the differences and how it affects the website interface.
 ​
 ### What's Still Unclear
 <!-- Questions that remain -->
 ​Nothing unclear, still working the assignments.
 ​
-### Work Completed (Week 5)
+### Work Completed (Week 6)
+**Design Tokens** 
+- [x] The Shape // SVG Structure,
+- [x] Figma's Engine
+- [ ] Interactive Graphics
+
+
+# Learning Log
+​
+## Week #7
+​
+### What I Learned
+<!-- SVG's, dropdown, svg paths -->
+​I learned more about svgs and scrollytelling and how css and js can be added to make webpages interesting and have engaging animations. I was also able to get through building the foundation of my scrollytelling website and developing a light/dark mode using variables.
+​
+### What Was Hard
+<!-- What broke, confused you, or took time to understand -->
+​Working with variables is still new to me so trying to figure out what I need for the assignment and for the webiste is tricky.
+​
+### How I Used AI
+<!-- Copilot, ChatGPT, etc. What you asked and why -->
+I used gemini to try to figure out implement the light and dark mode on figma becasue I count not remember how to do it. 
+​
+### What's Still Unclear
+<!-- Questions that remain -->
+​Nothing unclear, still working the assignments.
+​
+### Work Completed (Week 7)
 **Design Tokens** 
 - [x] The Shape // SVG Structure,
 - [x] Figma's Engine
